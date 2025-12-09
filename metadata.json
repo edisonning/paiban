@@ -1,0 +1,5 @@
+{
+  "name": "中车通勤车排班管理",
+  "description": "通勤车排班规则管理系统，支持车号优先级、OD流向逻辑及双重阈值容量控制。",
+  "requestFramePermissions": []
+}
